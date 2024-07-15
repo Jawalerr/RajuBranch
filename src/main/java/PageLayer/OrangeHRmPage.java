@@ -29,7 +29,7 @@ public class OrangeHRmPage extends BaseClass {
 	public void loginFunction() {
 		userName.sendKeys("Admin");
 		password.sendKeys("admin123");
-		loginButton.click();
+	loginButton.click();
 	}
 
 }
